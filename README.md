@@ -2,4 +2,4 @@
 
 Web-Frontend zur Anzeige aktueller CO2-Emissionswerte pro Land und Admin-Backend für wissenschaftliche Datenbeiträge.
 
-Repo: https://github.com/<dein-username>/like-hero-to-zero
+Repo: https://github.com/<Dino1406>/like-hero-to-zero
