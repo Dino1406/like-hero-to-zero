@@ -1,9 +1,24 @@
-target/
-!.mvn/wrapper/maven-wrapper.jar
-.idea/
-.vscode/
-*.iml
-.DS_Store
-*.log
-*.mv.db
+# Node
+node_modules/
+dist/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+pip-log.txt
+*.egg-info/
+
+# Env files
 .env
+.env.local
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
